@@ -1,8 +1,8 @@
 <p align="center"><img src="https://metroui.org.ua/images/logo.png" width="400"></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/size-161%20MB-green" alt="repo size">
-<img src="https://img.shields.io/badge/version-6.0-orange" alt="laravel version">
+<img src="https://img.shields.io/badge/size-30%20MB-green" alt="repo size">
+<img src="https://img.shields.io/badge/version-4.0-orange" alt="laravel version">
 </p>
 
 ## Metro 4 documentation
